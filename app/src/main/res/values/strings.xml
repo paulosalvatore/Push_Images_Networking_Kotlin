@@ -1,0 +1,24 @@
+<resources>
+	<string name="app_name" translatable="false">Push_Images_Networking_Kotlin</string>
+	<string name="none">None</string>
+	<string name="address">Address</string>
+	<string name="places">Places</string>
+	<string name="notification_title">Notification Title</string>
+	<string name="notification_body">Notification Body</string>
+	<string name="glide" translatable="false">Glide</string>
+	<string name="create_push_notification">Create Push Notification</string>
+	<string name="picasso" translatable="false">Picasso</string>
+	<string name="include_action_buttons">Include Action Buttons</string>
+	<string name="clear">Clear</string>
+	<string name="liked">Liked</string>
+	<string name="disliked">Disliked</string>
+	<string name="action">Action</string>
+	<string name="no_action">No Action</string>
+	<string name="generate_placeholder_text_title">Generate Placeholder Text</string>
+	<string name="clear_notification_text_fields_title">Clear Notification Text Fields</string>
+	<string name="generate_placeholder_text_description">Do you really want to generate placeholder text for notification fields?</string>
+	<string name="clear_notification_text_fields_description">Do you really want to clear notification text fields?</string>
+	<string name="text_fields_cleared">Text Fields Cleared!</string>
+	<string name="ok_then">Ok then!</string>
+	<string name="placeholder_text_generated">Placeholder Text Generated</string>
+</resources>
